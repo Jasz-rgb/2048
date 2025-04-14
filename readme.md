@@ -1,0 +1,1 @@
+run the design_ai_emm.py, design_ai_emm.py, design_manual.py and main.py files seprately. the design files are for pygame and main file is for command line game.
