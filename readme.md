@@ -1,6 +1,8 @@
 # 2048 – AI Game Solver
 
-![2048 AI Screenshot](https://github.com/user-attachments/assets/18573134-003e-41b0-90b5-c82adb5a8ec1)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/18573134-003e-41b0-90b5-c82adb5a8ec1" alt="2048 AI Screenshot" />
+</p>
 
 A Python implementation of the classic 2048 puzzle game with **AI-powered solvers**. This project features both **command-line** and **Pygame** versions of the game and demonstrates AI strategies such as **Expectimax** and **Expectiminimax** for maximizing scores.
 
@@ -71,14 +73,14 @@ You can also run design_ai_emm.py separately for AI with Pygame visuals.
 ---
 
 ## Technologies Used
-> Python
-> Pygame
-> Numpy
-> AI Algorithms: Expectimax, Expectiminimax
+- Python
+- Pygame
+- Numpy
+- AI Algorithms: Expectimax, Expectiminimax
 
 ---
 
 ## Outcome
-> Created an AI capable of playing 2048 at a high skill level.
+-Created an AI capable of playing 2048 at a high skill level.
 
 ## Gained deeper understanding of AI decision-making and algorithm design in games.
